@@ -89,7 +89,7 @@ Diminuição da biodiversidade é um impacto provocado pelo desmatamento que est
 },
 {
 texto: "b) Elevação do nível dos oceanos.
- "3-b)Alternativa incorreta."
+ "b)Alternativa incorreta."
 
 },
 {
