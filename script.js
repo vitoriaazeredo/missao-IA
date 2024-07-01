@@ -64,7 +64,7 @@ afirmacao: "Alternativa incorreta. "
 {
 texto: "b) Produção de carvão.",
 
-afirmacao: "2- b) Alternativa incorreta"
+afirmacao: "2- b)Alternativa incorreta"
 
 },
 {
