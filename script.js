@@ -10,7 +10,7 @@ const perguntas = [
             { texto: "Médio", afirmacao: "Você tem um bom entendimento sobre o Desmatamento." },
             { texto: "Alto", afirmacao: "Você tem um ótimo conhecimento, bem aprofundado sobre o Desmatamento." }
         ]
-    },
+    }
     {
         enunciado: "Indique um fenômeno geomorfológico aumentado pelo desmatamento.",
         alternativas: [
@@ -20,7 +20,7 @@ const perguntas = [
             { texto: "Tectonismo", afirmacao: "Alternativa incorreta." }
         ]
     }
-];
+}
 
 let atual = 0;
 let historiaFinal = "";
