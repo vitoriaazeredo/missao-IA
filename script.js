@@ -3,7 +3,7 @@ const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
-const perguntas = [
+const Perguntas = [
 {
 enunciado: "Qual o seu nível de conhecimento sobre o Desmatamento?",
 alternativas: [
@@ -40,20 +40,19 @@ afirmacao: "Alternativa incorreta."
 },
 {
 texto: "c) Erosão",
-afirmacao: "Alternativa coreta!"
-"Erosão é o fenômeno geomorfológico diretamente aumentado pelo desmatamento. do desmatamento remove a cobertura vegetal que protege o solo, tornando-o mais vulnerável à ação da chuva e o vento, o que intensifica os processos erosivos."
+afirmacao: "Alternativa coreta!",
+"Erosão é o fenômeno geomorfológico diretamente aumentado pelo desmatamento do desmatamento remove a cobertura vegetal que protege o solo, tornando-o mais vulnerável à ação da chuva e o vento, o que intensifica os processos erosivos." : any 
 },
 {
 texto: "d) Tectonismo.",
 afirmacao: "Alternativa incorreta. "
 }
 ]
-}
 {
 enunciado: "2 - Assinale a alternativa que NÃO apresenta uma causa do desmatamento."
-alternativas: ["3-b)Alternativa incorreta."
+alternativas: ["3-b)Alternativa incorreta.",
 {
-texto: "a) Exploração de madeira."
+texto: "a) Exploração de madeira.",
 afirmacao: "Alternativa incorreta. "
 },
 {
@@ -67,7 +66,7 @@ texto: "c) Expansão da urbanização.",
 afirmacao: "Alternativa incorreta. "
 },
 {
-texto: "d) Conservação dos rios."
+texto: "d) Conservação dos rios.",
 afirmacao: "Alternativa correta!Conservação dos rios não apresenta uma causa do desmatamento."
 }
 ]
@@ -77,12 +76,12 @@ enunciado: "3 - Qual impacto provocado pelo desmatamento está fortemente ligado
 alternativas: [
 {
 texto: "a) Diminuição da biodiversidade.",
-afirmacao: "Alternativa correta!"
-"Diminuição da biodiversidade é um impacto provocado pelo desmatamento que está fortemente ligado à fauna e à flora de uma região. A destruição de habitats naturais leva à perda de espécies vegetais e animais, reduzindo a diversidade biológica."
+afirmacao: "Alternativa correta!",
+"Diminuição da biodiversidade é um impacto provocado pelo desmatamento que está fortemente ligado à fauna e à flora de uma região. A destruição de habitats naturais leva à perda de espécies vegetais e animais, reduzindo a diversidade biológica." : any
 },
 {
-texto: "b) Elevação do nível dos oceanos."
- "3-b)Alternativa incorreta."
+texto: "b) Elevação do nível dos oceanos.",
+ "3-b)Alternativa incorreta." : any
 
 },
 {
